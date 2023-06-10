@@ -56,7 +56,7 @@ The app gives the user the possibility to:
 
 
 ## Known Issues
-The Circle ROIs don't work as intented, please use the Rectangle ROIs until I solve the issue.
+The Circle ROIs doesn't work as intented, please use the Rectangle ROIs until I solve the issue.
 
 ## Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
